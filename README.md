@@ -1,4 +1,4 @@
-# 🔍 Image Search App
+# 🔍 Image Search Website
 
 A responsive web app that lets users search for high-quality images using the Unsplash API. Built with Vite, vanilla JavaScript, and CSS.
 
